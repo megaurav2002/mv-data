@@ -22,13 +22,17 @@
 		},
 		{
 			"photo": "img/shrodingcat.png",
-			"name": "Schrödingcat",
-			"age": "-23"
+			"name": "Schrödingcat"
 		},
 		{
 			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
 			"name": "Smashed Avocado",
 			"age": "100"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/megaurav2002/mv-data/9e8f93b213254911f8dec1f0c6a2292e33a6dea9/images/IMG_1226.JPG",
+			"name": "Smile",
+			"age": "3"
 		}
 	]
 }
